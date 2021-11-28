@@ -1,0 +1,11 @@
+build/release/advanced_genetic_algorithm_supervisor.o: \
+  advanced_genetic_algorithm_supervisor.c \
+  /Applications/Webots.app/include/controller/c/webots/display.h \
+  /Applications/Webots.app/include/controller/c/webots/types.h \
+  /Applications/Webots.app/include/controller/c/webots/emitter.h \
+  /Applications/Webots.app/include/controller/c/webots/keyboard.h \
+  /Applications/Webots.app/include/controller/c/webots/robot.h \
+  /Applications/Webots.app/include/controller/c/webots/nodes.h \
+  /Applications/Webots.app/include/controller/c/webots/supervisor.h \
+  /Applications/Webots.app/include/controller/c/webots/contact_point.h \
+  genotype.h population.h
